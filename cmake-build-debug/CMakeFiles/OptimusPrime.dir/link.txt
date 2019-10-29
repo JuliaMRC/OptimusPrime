@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/OptimusPrime.dir/src/main.c.o CMakeFiles/OptimusPrime.dir/libs/queue/src/queue.c.o CMakeFiles/OptimusPrime.dir/libs/queue/src/node.c.o  -o OptimusPrime 

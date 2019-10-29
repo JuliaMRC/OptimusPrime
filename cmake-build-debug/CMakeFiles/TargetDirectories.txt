@@ -1,0 +1,3 @@
+/home/dodev/CLionProjects/OptimusPrime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dodev/CLionProjects/OptimusPrime/cmake-build-debug/CMakeFiles/OptimusPrime.dir
+/home/dodev/CLionProjects/OptimusPrime/cmake-build-debug/CMakeFiles/edit_cache.dir

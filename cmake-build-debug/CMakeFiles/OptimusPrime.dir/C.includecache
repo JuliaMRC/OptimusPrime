@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dodev/CLionProjects/OptimusPrime/libs/queue/include/node.h
+
+/home/dodev/CLionProjects/OptimusPrime/libs/queue/include/queue.h
+node.h
+/home/dodev/CLionProjects/OptimusPrime/libs/queue/include/node.h
+
+/home/dodev/CLionProjects/OptimusPrime/src/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+pthread.h
+-
+math.h
+-
+../libs/queue/include/queue.h
+/home/dodev/CLionProjects/OptimusPrime/libs/queue/include/queue.h
+
